@@ -24,12 +24,6 @@ A modern, asynchronous web crawler built with ASP.NET Core MVC and SQLite. This 
 
 ---
 
-## 📸 Screenshots
-
-_Add a screenshot of your dashboard here to show off the progress bars!_
-
----
-
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the repository
